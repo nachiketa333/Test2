@@ -34,7 +34,9 @@ public class MainActivity extends AppCompatActivity {
 
 
         canvas.drawLine(10,50,200,50,paintbrush);
-        canvas.drawLine(10,100,200,100,paintbrush);
+        canvas.drawLine(10,150,200,150,paintbrush);
+        canvas.drawLine(10,250,200,250,paintbrush);
+        canvas.drawLine(10,350,200,350,paintbrush);
 
 
 
